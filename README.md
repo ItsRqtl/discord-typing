@@ -11,5 +11,8 @@ There is only 3 commands.<br />
 `/stop` to stop the bot from typing.<br />
 `/invite` to invite the bot. (You can change the invite link in line 16.)
 
+## Hosted Bot
+This bot is also hosted by me. You can invite it at https://bit.ly/3OVuzE2.
+
 ## License
 This project is under `GNU General Public License v3.0`. You can check the details in LICENSE.
