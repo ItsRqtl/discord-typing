@@ -2,7 +2,8 @@
 A open source python bot that types forever.
 
 ## Installation
-You can install all required modules/library by doing `pip install -r requirements.txt`
+You can install all required modules/library by doing `pip install -r requirements.txt`<br />
+You also need to create a file `.env` under the same directory with your token in it. (`token=INSERT_YOUR_TOKEN`)
 
 ## Usage
 There is only 3 commands.<br />
