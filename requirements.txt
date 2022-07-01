@@ -1,0 +1,3 @@
+git+https://github.com/interactions-py/library.git@4.3.0-beta.1
+interactions-autosharder
+python-decouple
