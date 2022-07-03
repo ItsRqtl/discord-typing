@@ -14,5 +14,8 @@ There is only 3 commands.<br />
 ## Hosted Bot
 This bot is also hosted by me. You can invite it [here](https://discord.com/api/oauth2/authorize?client_id=991618813856591942&permissions=67111936&scope=applications.commands%20bot).
 
+## Credit
+Inspired by Maoyue#4997's typing bot.
+
 ## License
 This project is under `GNU General Public License v3.0`. You can check the details in LICENSE.
