@@ -18,4 +18,4 @@ This bot is also hosted by me. You can invite it [here](/) [**NOT AVAILABLE AT T
 Inspired by Maoyue#4997's typing bot.
 
 ## License
-This project is under `GNU General Public License v3.0`. You can check the details in LICENSE.
+This project is under `MIT License`. You can check the details in [LICENSE](/LICENSE).
