@@ -12,7 +12,7 @@ There is only 3 commands.<br />
 `/invite` to invite the bot. (You can change the invite link in line 16.)
 
 ## Hosted Bot
-This bot is also hosted by me. You can invite it [here](https://discord.com/api/oauth2/authorize?client_id=991618813856591942&permissions=67111936&scope=applications.commands%20bot).
+This bot is also hosted by me. You can invite it [here](/) [**NOT AVAILABLE AT THIS MOMENT**].
 
 ## Credit
 Inspired by Maoyue#4997's typing bot.
