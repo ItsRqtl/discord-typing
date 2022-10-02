@@ -13,5 +13,5 @@ async def stop(ctx):
     else:task.pop(int(ctx.guild_id));await ctx.send("Stopped typing.",ephemeral=True)
     finally:await ctx.client.modify_self_nick_in_guild(guild_id=ctx.guild_id,nickname=None)
 @client.command(name="invite", description="Invite to your server!")
-async def invite(ctx):await ctx.send("Invite Typing to your server!",components=Button(style=ButtonStyle.LINK,label="Click me!",url="https://discord.com/api/oauth2/authorize?client_id=991618813856591942&permissions=67111936&scope=applications.commands%20bot"),ephemeral=True)
+async def invite(ctx):await ctx.send("Invite Typing to your server!",components=Button(style=ButtonStyle.LINK,label="Click me!",url="https://github.com/ItsRqtl/typing/"),ephemeral=True)
 client.start()
