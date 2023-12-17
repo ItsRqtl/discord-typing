@@ -1,0 +1,22 @@
+start:
+  name: "start"
+  description: "I am typing..."
+  option:
+    channel:
+      name: "channel"
+      description: "The channel to start typing in."
+
+  no_permission: "I do not have permission to start typing in {channel}."
+  already_typing: "I am already typing in {channel}."
+  success: "I am now typing in {channel}."
+
+stop:
+  name: "stop"
+  description: "Enough! Stop typing!"
+  option:
+    channel:
+      name: "channel"
+      description: "The channel to stop typing in."
+
+  not_typing: "I am not typing in {channel}."
+  success: "I have stopped typing in {channel}."

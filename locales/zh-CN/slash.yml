@@ -1,0 +1,22 @@
+start:
+  name: "start"
+  description: "正在输入中..."
+  option:
+    channel:
+      name: "频道"
+      description: "要在其中开始输入的频道。"
+
+  no_permission: "我没有权限在 {channel} 开始输入。"
+  already_typing: "我已经在 {channel} 输入中。"
+  success: "我现在正在 {channel} 输入中。"
+
+stop:
+  name: "stop"
+  description: "够了！停止输入！"
+  option:
+    channel:
+      name: "频道"
+      description: "要在其中停止输入的频道。"
+
+  not_typing: "我没有在 {channel} 输入中。"
+  success: "停止在 {channel} 输入。"
