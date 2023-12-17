@@ -15,7 +15,7 @@ There is only 2 commands.
 
 ## Hosted Bot
 
-This bot is also hosted by me. You can invite it [here](/) [**NOT AVAILABLE AT THIS MOMENT**].
+This bot is also hosted by me. You can invite it [here](https://discord.com/api/oauth2/authorize?client_id=991618813856591942&permissions=274877910016&scope=bot).
 
 ## Credit
 
